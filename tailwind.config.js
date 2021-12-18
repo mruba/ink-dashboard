@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
         // font-family: 'Moo Lah Lah', cursive;
-        'sans': ['Moo Lah Lah','ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', "Liberation Mono", "Courier New", 'monospace'],
+        'sans': ['Roboto Mono','ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', "Liberation Mono", "Courier New", 'monospace'],
       },
       colors: {
         'black': '#1c181c',
