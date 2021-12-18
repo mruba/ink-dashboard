@@ -23,7 +23,7 @@ const Home: NextPage = (props:any) => {
 
   return (
     <div className='h-screen p-10 bg-white'>
-      <p className='text-center font-bold text-6xl text-pink-500'>
+      <p className='text-center font-bold text-6xl text-green'>
         {date} Ethereum price {props.ethereumPrice} USD
       </p>
     </div>

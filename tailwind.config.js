@@ -11,6 +11,15 @@ module.exports = {
         'sans': ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', "Liberation Mono", "Courier New", 'monospace'],
       },
     },
+    colors: {
+      'black': '#1c181c',
+      'white': '#ffffff',
+      'green': '#1dad23',
+      'blue': '#1e1dae',
+      'red': '#cd2425',
+      'yellow': '#e7de23',
+      'orange': '#d87b24',
+    },
   },
   plugins: [
   ],
